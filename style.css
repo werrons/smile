@@ -1,0 +1,97 @@
+body{
+    display: flex; 
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper{
+    height: 700px;
+    width: 700px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+    position: relative;
+}
+.first{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50%;
+    left: 150px;
+    top: 168px;
+}
+.second{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 50%;
+    left: 455px;
+    top: 168px;
+}
+.third{
+    position: absolute;
+    height: 181px;
+    width: 436px;
+    background-color: rgb(0 0 0);
+    border-radius: 53%;
+    left: 149px;
+    top: 387px;
+}
+.fourth{
+    position: absolute;
+    height: 181px;
+    width: 436px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+    left: 147px;
+    top: 355px;
+}
+.noga-1{
+    position: absolute;
+    height: 171px;
+    width: 350px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 145px 145px 0px 0;
+    left: -53px;
+    top: 585px;
+}
+.noga-2{
+    position: absolute;
+    height: 171px;
+    width: 350px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 145px 145px 0px 0;
+    left: 396px;
+    top: 585px;
+}
+img{
+    position: absolute;
+    width: 200px;
+    left: 24px;
+    top: 600px;
+}
+.nike-2{
+    position: absolute;
+    width: 200px;
+    left: 476px;
+    top: 600px;
+}
+.glas-1{
+    position: absolute;
+    height: 76px;
+    width: 78px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    left: 162px;
+    top: 181px;
+}
+.glas-2{
+    position: absolute;
+    height: 76px;
+    width: 78px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    left: 872px;
+    top: 180px;
+}
